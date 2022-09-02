@@ -36,8 +36,7 @@ public class WordCounter {
 			if(characterAt == ' ' && paragraph.charAt(i + 1) != ' ') {  
 				spaceCount++;
 			}
-			System.out.println(characterAt);
-			System.out.println( paragraph.charAt(i+1));
+			
 			
 		}
 		
