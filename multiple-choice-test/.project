@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>compare-student-marks</name>
+	<name>multiple-choice-test</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1662503270912</id>
+			<id>1662503270932</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
